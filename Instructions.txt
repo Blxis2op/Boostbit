@@ -1,0 +1,8 @@
+1) Go To https://www.python.org/downloads/release/python-3100/
+2) Install The .exe File
+3) Install 10.0.0 Only Not other versions
+4) open cmd in the files folder
+5) run "pip install -r requirements.txt"
+6) Go To Config File and Set Ur Server id and Owner id and Bot Token and CapMonster Key There
+7) Run python main.py
+8) Enjoy !!!!!

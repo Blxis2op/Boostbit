@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "owner": "",
+    "guild_id": "",
+    "capmonster_key": "", 
+    "server_nick": "test",
+    "change_server_nick": true,
+    "proxyless": true,
+    "field_name_invite": "Invite",
+    "order_log_webhook": "https://canary.discord.com/api/webhooks/1077190962041864233/N-wCDyl16CMbOoh-YnD-H3emGDB_ALx2eb5IYB7q3-9xxejKGQpYfVX8vhY9LfSh_FZM",
+    "boost_failed_log_webhook": "https://canary.discord.com/api/webhooks/1077190962041864233/N-wCDyl16CMbOoh-YnD-H3emGDB_ALx2eb5IYB7q3-9xxejKGQpYfVX8vhY9LfSh_FZM",
+    "boost_log_webhook": "https://canary.discord.com/api/webhooks/1077190962041864233/N-wCDyl16CMbOoh-YnD-H3emGDB_ALx2eb5IYB7q3-9xxejKGQpYfVX8vhY9LfSh_FZM"
+}

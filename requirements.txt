@@ -1,0 +1,8 @@
+colorama
+yarl
+aiohttp
+requests
+httpx
+tls_client
+discord_webhook
+flask
